@@ -37,4 +37,61 @@ Components are decoupled for independent upgrades and testing.
 - Basic familiarity with virtual environments and environment variables
 
 ### Installation 🛠️
+```bash
+git clone https://github.com/venkatsai2004/Google-DuckDuckGo-Video-Agent.git
+cd Google-DuckDuckGo-Video-Agent
+python -m venv .venv
+source .venv/bin/activate # Linux/macOS
+
+or
+.venv\Scripts\activate # Windows
+pip install -r requirements.txt
+
+```
+
+
+### Configuration ⚙️
+
+Create a `.env` file with: GEMINI_API_KEY=your_google_gemini_live_api_key_here
+
+
+Add any other config keys as required.
+
+---
+
+## Usage ▶️
+
+Run the backend agent:
+
+Connect your video/voice frontend to use the agent. The agent will:
+
+- Listen for user queries.  
+- Use DuckDuckGo for relevant web searches.  
+- Generate accurate responses via Google Gemini Live.  
+- Stream replies back seamlessly.
+
+---
+
+## Contributing 🤝
+
+Contributions and enhancements are welcome. Please open issues or submit pull requests.
+
+---
+
+## License 📜
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+Enjoy building interactive AI-driven video experiences! 🚀😊
+
+
+
+
+
+
+
+
+
 
