@@ -1,0 +1,20 @@
+{
+  "error": null,
+  "users": [
+    {
+      "age": 28,
+      "email": "john.doe@company.com",
+      "name": "John Doe"
+    },
+    {
+      "age": 32,
+      "email": "jane.smith@company.com",
+      "name": "Jane Smith"
+    },
+    {
+      "age": 29,
+      "email": "mike.johnson@company.com",
+      "name": "Mike Johnson"
+    }
+  ]
+}

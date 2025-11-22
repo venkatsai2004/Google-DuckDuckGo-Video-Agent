@@ -1,0 +1,32 @@
+{
+  "count": 3,
+  "users": [
+    {
+      "age": 40,
+      "email": "john.doe@gmail.com",
+      "firstName": "John",
+      "id": 1,
+      "lastName": "Doe",
+      "registeredAt": "2025-01-21T11:57:31.639867",
+      "username": "john766"
+    },
+    {
+      "age": 45,
+      "email": "alice.smith@yahoo.com",
+      "firstName": "Alice",
+      "id": 2,
+      "lastName": "Smith",
+      "registeredAt": "2024-11-12T11:57:31.639867",
+      "username": "alice320"
+    },
+    {
+      "age": 35,
+      "email": "bob.johnson@hotmail.com",
+      "firstName": "Bob",
+      "id": 3,
+      "lastName": "Johnson",
+      "registeredAt": "2025-07-05T11:57:31.639867",
+      "username": "bob831"
+    }
+  ]
+}
